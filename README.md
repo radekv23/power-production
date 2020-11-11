@@ -5,6 +5,7 @@ by Radek Wojtczak G00352936<br>
 
 <br>
 ### Instructions:
+
 In this project you must perform and explain simple linear regression using Python
 on the powerproduction dataset. The goal is to accurately predict wind turbine power output from wind speed values using the data set as a basis.
 Your submission must be in the form of a git repository containing, at a minimum, the
